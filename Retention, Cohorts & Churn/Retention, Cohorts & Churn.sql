@@ -6,7 +6,7 @@ WITH weekly_subscriptions AS (
     DATE_TRUNC(s.subscription_start, WEEK) AS cohort
   FROM turing_data_analytics.subscriptions s
 )
-
+ 
 SELECT
   cohort,
   COUNT(*) as cohort_size,
