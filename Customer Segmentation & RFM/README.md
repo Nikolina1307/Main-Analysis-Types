@@ -34,7 +34,7 @@ This analysis focused on answering two crucial business questions:
 
 Further details on the analysis process, segmentation results, and recommendations for each customer group can be found in the following section:
 
-- **Analysis & Reports**: This section provides a detailed report and interactive dashboard that visualize the customer segmentation findings. [Go to the Analysis & Report Section](##-Analysis-&-Report)
+- **Analysis & Reports**: This section provides a detailed report and interactive dashboard that visualize the customer segmentation findings.
 
 ### Dataset
 This analysis leverages the "rfm" dataset stored within the "turing_data_analytics" database on the Turing College BigQuery project. This dataset contains customer transaction data used for the RFM analysis.
