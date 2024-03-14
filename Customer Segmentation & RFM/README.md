@@ -1,5 +1,5 @@
 # Customer Segmentation & RFM
-
+ 
 ## Description
 
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately. Segmentation allows marketers to better tailor their marketing efforts to various audience subsets, improving communication, product development, customer relationships, and profitability.
